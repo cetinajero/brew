@@ -5,6 +5,12 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/homebrew?label=GitHub%20Sponsors)](https://github.com/sponsors/Homebrew)
 [![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/homebrew?label=Open%20Collective)](https://opencollective.com/homebrew)
 
+Install:
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/7a133dcc74051ee4efc79467ed215dfedf45aea2/install.sh)"
+```
+
 See [Homebrew's homepage at `brew.sh`](https://brew.sh) for installation instructions, what homebrew does, packages, `brew bundle` and more.
 
 <img src="https://brew.sh/assets/img/brew-install.gif" alt="Homebrew install demo" width="580" height="424">
